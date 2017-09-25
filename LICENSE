@@ -1,3 +1,17 @@
+Copyright (c) 2015-2017 Keefer Rourke <mail@krourke.org> and others.
+
+La Capitaine is an icon theme whose artwork falls under the GPL version 3
+(or at your option) any later version. The full license text follows.
+
+The configuration script that is included with La Capitaine falls under
+the MIT license. You should have received the full licensing information
+as well as any exceptions and clarifications noted in the COPYING file.
+
+If you did not receive these files, contact me:
+<https://krourke.org/contact>.
+
+-----
+
                     GNU GENERAL PUBLIC LICENSE
                        Version 3, 29 June 2007
 
@@ -672,3 +686,4 @@ may consider it more useful to permit linking proprietary applications with
 the library.  If this is what you want to do, use the GNU Lesser General
 Public License instead of this License.  But first, please read
 <http://www.gnu.org/philosophy/why-not-lgpl.html>.
+
