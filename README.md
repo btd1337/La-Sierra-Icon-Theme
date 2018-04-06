@@ -30,4 +30,4 @@ Download:
 ### Second:
 Set:
 
-     $ gsettings set org.gnome.desktop.interface icon-theme "La Sierra"
+     $ gsettings set org.gnome.desktop.interface icon-theme "La-Sierra"
